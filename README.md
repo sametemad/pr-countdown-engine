@@ -1,8 +1,12 @@
+# 🚀 PR Countdown Dashboard
+
 ## 🖥️ Preview
 
-![Preview](preview.png)# 🚀 PR Countdown Dashboard
+![App Preview](preview.png)
 
-A Python-based tool to track immigration progress, countdown deadlines, and monitor key KPIs.
+---
+
+A Python-based dashboard to track immigration progress, countdown deadlines, and monitor key KPIs in real-time.
 
 ---
 
@@ -10,7 +14,7 @@ A Python-based tool to track immigration progress, countdown deadlines, and moni
 
 - ⏳ Real-time PR countdown
 - 📊 KPI tracking (CEC, CELPIP, Documents)
-- ⚠️ Status engine (SAFE / WARNING / CRITICAL)
+- ⚠️ Smart status engine (SAFE / WARNING / CRITICAL)
 - 🖥️ GUI dashboard (Tkinter)
 - 📝 Daily logging system (JSON)
 
@@ -18,13 +22,22 @@ A Python-based tool to track immigration progress, countdown deadlines, and moni
 
 ## 🛠 Tech Stack
 
-- Python
-- Tkinter
-- JSON
+- Python 3.14
+- Tkinter (GUI)
+- JSON (Data Storage)
 
 ---
 
-## ▶️ Usage
+## ▶️ How to Run
 
 ```bash
+```md
+## 📌 Project Purpose
+
+This project was built to simulate a real-world immigration tracking system with automation, monitoring, and visualization.
+
+It demonstrates:
+- Practical Python skills
+- System thinking
+- Real-life problem solving
 python main.py
