@@ -1,4 +1,6 @@
-# 🚀 PR Countdown Dashboard
+## 🖥️ Preview
+
+![Preview](preview.png)# 🚀 PR Countdown Dashboard
 
 A Python-based tool to track immigration progress, countdown deadlines, and monitor key KPIs.
 
