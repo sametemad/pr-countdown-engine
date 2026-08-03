@@ -1,0 +1,59 @@
+[
+    {
+        "date": "2026-08-03 16:44",
+        "days_used": 0,
+        "days_remaining": 135,
+        "cec": 52,
+        "celpip": 10,
+        "docs": 65,
+        "status": "SAFE \ud83d\udfe2"
+    },
+    {
+        "timestamp": "2026-08-03 16:47:09",
+        "days_used": 0,
+        "days_remaining": 135,
+        "cec_readiness": 52,
+        "celpip_progress": 10,
+        "docs_ready": 65,
+        "status": "SAFE \ud83d\udfe2"
+    },
+    {
+        "timestamp": "2026-08-03 16:54:34",
+        "days_used": 0,
+        "days_remaining": 135,
+        "status": "SAFE \ud83d\udfe2"
+    },
+    {
+        "timestamp": "2026-08-03 17:00:03",
+        "days_used": 0,
+        "days_remaining": 135,
+        "status": "SAFE \ud83d\udfe2"
+    },
+    {
+        "days_passed": 0,
+        "days_remaining": 135,
+        "cec": 52,
+        "celpip": 10,
+        "docs": 65,
+        "status": "SAFE \ud83d\udfe2",
+        "date": "2026-08-03 17:06:21"
+    },
+    {
+        "days_passed": 0,
+        "days_remaining": 135,
+        "cec": 52,
+        "celpip": 10,
+        "docs": 65,
+        "status": "SAFE \ud83d\udfe2",
+        "date": "2026-08-03 17:07:06"
+    },
+    {
+        "days_passed": 0,
+        "days_remaining": 135,
+        "cec": 52,
+        "celpip": 10,
+        "docs": 65,
+        "status": "SAFE \ud83d\udfe2",
+        "date": "2026-08-03 17:15:06"
+    }
+]
